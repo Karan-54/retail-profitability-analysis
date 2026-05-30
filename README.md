@@ -163,6 +163,11 @@ An interactive Power BI dashboard was built for executive and stakeholder report
 - **Shipping Analysis** — Order volume and cost by shipping mode
 - **Cost Optimization View** — Targeted view for operational efficiency improvements
 
+## 📸 Dashboard Preview
+![Executive Overview](Images/Executive_overview.png)
+
+![Cost Optimization](Images/cost_optimization.png)
+
 ---
 
 ## 📊 Key Findings
