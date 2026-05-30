@@ -205,7 +205,7 @@ An interactive Power BI dashboard was built for executive and stakeholder report
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Retail-Profitability-Analysis.git
+   git clone https://github.com/Karan-54/retail-profitability-analysis
    ```
 
 2. **Set up the PostgreSQL database**
